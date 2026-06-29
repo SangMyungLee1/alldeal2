@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>라이프헬퍼</title>
+    <link>https://life-helper.co.kr/</link>
+    <description>생활서비스 가입 및 비교 상담 안내</description>
+    <language>ko</language>
+    <lastBuildDate>Tue, 23 Jun 2026 11:34:33 +0000</lastBuildDate>
+    <item>
+      <title>라이프헬퍼 생활서비스 비교 상담</title>
+      <link>https://life-helper.co.kr/</link>
+      <guid isPermaLink="true">https://life-helper.co.kr/</guid>
+      <description><![CDATA[라이프헬퍼는 이사, 인터넷가입, 정수기렌탈, 장기렌트카 등 생활에 필요한 서비스를 한 곳에서 확인하고 상담할 수 있는 생활서비스 안내 페이지입니다.]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>인터넷가입 혜택 비교 상담</title>
+      <link>https://life-helper.co.kr/internet/</link>
+      <guid isPermaLink="true">https://life-helper.co.kr/internet/</guid>
+      <description><![CDATA[인터넷가입, 인터넷 TV 결합, 통신사별 요금제, 현금지원, 사은품, 결합할인, 설치 가능 지역을 빠르게 상담할 수 있는 페이지입니다.]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:34:33 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
