@@ -5,6 +5,10 @@
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
+    <loc>https://life-helper.co.kr/internet/</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
     <loc>https://life-helper.co.kr/internet/board/boardmain.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
@@ -29,23 +33,19 @@
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/internet/</loc>
+    <loc>https://life-helper.co.kr/internet/notice/busan/busan.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/internet/notice/busan/</loc>
+    <loc>https://life-helper.co.kr/internet/notice/junghwan/junghwan.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/internet/notice/junghwan/</loc>
+    <loc>https://life-helper.co.kr/internet/notice/seoul/seoul.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/internet/notice/seoul/</loc>
-    <lastmod>2026-07-01</lastmod>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/notice/yangsan/</loc>
+    <loc>https://life-helper.co.kr/internet/notice/yangsan/yangsan.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
@@ -58,6 +58,10 @@
   </url>
   <url>
     <loc>https://life-helper.co.kr/misc/drive/jgdrive.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/misc/nakta/8bong.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
@@ -74,6 +78,10 @@
   </url>
   <url>
     <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice1/notice1.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice10/notice10.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
   <url>
@@ -106,10 +114,6 @@
   </url>
   <url>
     <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice9/notice9.html</loc>
-    <lastmod>2026-07-01</lastmod>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice10/notice10.html</loc>
     <lastmod>2026-07-01</lastmod>
   </url>
 </urlset>
