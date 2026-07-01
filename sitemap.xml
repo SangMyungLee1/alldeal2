@@ -2,158 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://life-helper.co.kr/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/internet/board/boardmain.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/internet/board/internet-1/info1.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/internet/board/internet-2/info2.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/internet/board/internet-3/info3.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/internet/board/internet-4/info4.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/internet/board/internet-5/info5.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://life-helper.co.kr/internet/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/board/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/board/internet-1/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/board/internet-2/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/board/internet-3/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/board/internet-4/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/internet/board/internet-5/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://life-helper.co.kr/internet/notice/busan/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://life-helper.co.kr/internet/notice/junghwan/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://life-helper.co.kr/internet/notice/seoul/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://life-helper.co.kr/internet/notice/yangsan/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/misc/1/4bong.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/misc/2/2222.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/misc/drive/jgdrive.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/misc/summer-info/summer1.html</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://life-helper.co.kr/misc/summer-info/summer2.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://life-helper.co.kr/pojang/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice1/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice1/notice1.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice2/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice2/notice2.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice3/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice3/notice3.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice4/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice4/notice4.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice5/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice5/notice5.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice6/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice6/notice6.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice7/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice7/notice7.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice8/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice8/notice8.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice9/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice9/notice9.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
-    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice10/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/misc/1/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/misc/2/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://life-helper.co.kr/misc/drive/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://life-helper.co.kr/pojang/info/notice-seoul/notice10/notice10.html</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
 </urlset>
